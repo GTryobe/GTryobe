@@ -1,4 +1,4 @@
-# Hi
-我是GTryobe，一个什么都不会的小辣鸡
+# 嗨
+欢迎来到GTryobe的小实验室，这里用来给我敲敲代码，搞一下其他的什么东西，总之你可以在这里随便看看
 
-这是[我的个人blog网站](http://xiesblog.wikidot.com/)可以去看看
+或许你还会对我的[个人博客网站]（http://xiesblog.wikidot.com/）感兴趣
